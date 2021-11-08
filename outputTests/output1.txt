@@ -1,0 +1,17 @@
+Container stores 9 plants:
+tree: name = dub, length = 3, age = 54, Fraction = 0.3333333333333333
+bush: name = kust, length = 4, month = Month.NOVEMBER, Fraction = 0.25
+flower: name = tsvetok, length = 7, type = Type.GARDEN, Fraction = 0.2857142857142857
+tree: name = bodhi, length = 5, age = 1000, Fraction = 0.4
+bush: name = klubnika, length = 8, month = Month.SEPTEMBER, Fraction = 0.375
+flower: name = rosa, length = 4, type = Type.WILD, Fraction = 0.5
+tree: name = sosna, length = 5, age = 99, Fraction = 0.4
+bush: name = marivana, length = 8, month = Month.APRIL, Fraction = 0.5
+flower: name = liliya, length = 6, type = Type.HOME, Fraction = 0.5
+
+Plants with Fractions higher than average = 5
+tree: name = bodhi, length = 5, age = 1000, Fraction = 0.4
+flower: name = rosa, length = 4, type = Type.WILD, Fraction = 0.5
+tree: name = sosna, length = 5, age = 99, Fraction = 0.4
+bush: name = marivana, length = 8, month = Month.APRIL, Fraction = 0.5
+flower: name = liliya, length = 6, type = Type.HOME, Fraction = 0.5

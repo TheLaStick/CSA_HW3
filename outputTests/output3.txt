@@ -1,0 +1,14 @@
+Container stores 7 plants:
+tree: name = oak, length = 3, age = 9, Fraction = 0.6666666666666666
+tree: name = oak, length = 3, age = 51, Fraction = 0.6666666666666666
+tree: name = birch, length = 5, age = 12, Fraction = 0.2
+tree: name = oak, length = 3, age = 17, Fraction = 0.6666666666666666
+tree: name = birch, length = 5, age = 90, Fraction = 0.2
+tree: name = ash, length = 3, age = 3000, Fraction = 0.3333333333333333
+tree: name = pine, length = 4, age = 228, Fraction = 0.5
+
+Plants with Fractions higher than average = 4
+tree: name = oak, length = 3, age = 9, Fraction = 0.6666666666666666
+tree: name = oak, length = 3, age = 51, Fraction = 0.6666666666666666
+tree: name = oak, length = 3, age = 17, Fraction = 0.6666666666666666
+tree: name = pine, length = 4, age = 228, Fraction = 0.5

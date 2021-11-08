@@ -1,0 +1,12 @@
+2
+kust 4 1
+2
+lol 3 2
+2
+tupoikust 9 9
+2
+avs 3 10
+2
+sweet 5 1
+2
+notbirch 8 0

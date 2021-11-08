@@ -1,0 +1,16 @@
+Container stores 9 plants:
+tree: name = one, length = 3, age = 54, Fraction = 0.6666666666666666
+bush: name = two, length = 3, month = Month.MARCH, Fraction = 0.3333333333333333
+flower: name = three, length = 5, type = Type.GARDEN, Fraction = 0.4
+tree: name = four, length = 4, age = 1000, Fraction = 0.5
+bush: name = five, length = 4, month = Month.MARCH, Fraction = 0.5
+flower: name = six, length = 3, type = Type.GARDEN, Fraction = 0.3333333333333333
+tree: name = seven, length = 5, age = 21321, Fraction = 0.4
+bush: name = eight, length = 5, month = Month.JANUARY, Fraction = 0.4
+flower: name = nine, length = 4, type = Type.HOME, Fraction = 0.5
+
+Plants with Fractions higher than average = 4
+tree: name = one, length = 3, age = 54, Fraction = 0.6666666666666666
+tree: name = four, length = 4, age = 1000, Fraction = 0.5
+bush: name = five, length = 4, month = Month.MARCH, Fraction = 0.5
+flower: name = nine, length = 4, type = Type.HOME, Fraction = 0.5

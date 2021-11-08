@@ -1,0 +1,11 @@
+Container stores 6 plants:
+bush: name = kust, length = 4, month = Month.FEBRUARY, Fraction = 0.25
+bush: name = lol, length = 3, month = Month.MARCH, Fraction = 0.3333333333333333
+bush: name = tupoikust, length = 9, month = Month.OCTOBER, Fraction = 0.4444444444444444
+bush: name = avs, length = 3, month = Month.NOVEMBER, Fraction = 0.3333333333333333
+bush: name = sweet, length = 5, month = Month.FEBRUARY, Fraction = 0.4
+bush: name = notbirch, length = 8, month = Month.JANUARY, Fraction = 0.25
+
+Plants with Fractions higher than average = 2
+bush: name = tupoikust, length = 9, month = Month.OCTOBER, Fraction = 0.4444444444444444
+bush: name = sweet, length = 5, month = Month.FEBRUARY, Fraction = 0.4

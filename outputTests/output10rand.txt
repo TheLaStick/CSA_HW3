@@ -1,0 +1,18 @@
+Container stores 10 plants:
+tree: name = mmflqljxel, length = 10, age = 808, Fraction = 0.1
+bush: name = paixalhwitp, length = 11, month = Month.JANUARY, Fraction = 0.36363636363636365
+flower: name = npdarctozbff, length = 12, type = Type.GARDEN, Fraction = 0.16666666666666666
+bush: name = uxnfce, length = 6, month = Month.JULY, Fraction = 0.3333333333333333
+tree: name = ijiicerxsobnhmzsi, length = 17, age = 1413, Fraction = 0.35294117647058826
+bush: name = vcixbwpcvaoluav, length = 15, month = Month.FEBRUARY, Fraction = 0.3333333333333333
+flower: name = qlkhskpuygrarzbdto, length = 18, type = Type.HOME, Fraction = 0.16666666666666666
+tree: name = pijmq, length = 5, age = 110, Fraction = 0.2
+bush: name = ibkeufxcxgtnvjoi, length = 16, month = Month.JULY, Fraction = 0.3125
+bush: name = u, length = 1, month = Month.DECEMBER, Fraction = 1.0
+
+Plants with Fractions higher than average = 5
+bush: name = paixalhwitp, length = 11, month = Month.JANUARY, Fraction = 0.36363636363636365
+bush: name = uxnfce, length = 6, month = Month.JULY, Fraction = 0.3333333333333333
+tree: name = ijiicerxsobnhmzsi, length = 17, age = 1413, Fraction = 0.35294117647058826
+bush: name = vcixbwpcvaoluav, length = 15, month = Month.FEBRUARY, Fraction = 0.3333333333333333
+bush: name = u, length = 1, month = Month.DECEMBER, Fraction = 1.0

@@ -1,0 +1,18 @@
+1
+one 3 54
+2
+two 3 2
+3
+three 5 1
+1
+four 4 1000
+2
+five 4 2
+3
+six 3 1
+1
+seven 5 21321
+2
+eight 5 0
+3
+nine 4 0

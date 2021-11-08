@@ -1,0 +1,8 @@
+Container stores 3 plants:
+tree: name = oak, length = 3, age = 54, Fraction = 0.6666666666666666
+bush: name = barberry, length = 8, month = Month.JANUARY, Fraction = 0.25
+flower: name = rose, length = 4, type = Type.WILD, Fraction = 0.5
+
+Plants with Fractions higher than average = 2
+tree: name = oak, length = 3, age = 54, Fraction = 0.6666666666666666
+flower: name = rose, length = 4, type = Type.WILD, Fraction = 0.5

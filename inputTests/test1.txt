@@ -1,0 +1,18 @@
+1
+dub 3 54
+2
+kust 4 10
+3
+tsvetok 7 1
+1
+bodhi 5 1000
+2
+klubnika 8 8
+3
+rosa 4 2
+1
+sosna 5 99
+2
+marivana 8 3
+3
+liliya 6 3
